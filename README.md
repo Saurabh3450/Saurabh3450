@@ -1,6 +1,6 @@
 ![logo](https://github.com/Saurabh3450/Saurabh-Mane/blob/main/sdas.gif)
 
-<h1 align="center">Hi 👋, I'm Saurabh Mane</h1>
+<h1 align="center">Hiii 👋, I'm SAURABH MANE</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
